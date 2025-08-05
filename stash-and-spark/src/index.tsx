@@ -1,6 +1,7 @@
 import React from 'react';
 import ReactDOM from 'react-dom/client';
 import './index.css';
+import './global-bg-fix.css';
 import AppWithBackground from './AppWithBackground';
 import reportWebVitals from './reportWebVitals';
 
